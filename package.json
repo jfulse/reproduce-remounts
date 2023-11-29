@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@sanity/image-url": "^1.0.2",
-    "@sanity/preview-kit": "^3.1.6",
+    "@sanity/preview-kit": "4.0.3-canary.1",
     "@sanity/vision": "^3.18.0",
     "next": "13.5.4",
     "next-sanity": "^5.5.7",
